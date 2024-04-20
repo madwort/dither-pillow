@@ -10,3 +10,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 python dither.py
 ```
+
+## example output
+
+![example random dither output](example.png)
